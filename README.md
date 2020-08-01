@@ -22,7 +22,7 @@
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
-![Desafio 01 _ Efeito camadas em 3D utilizando hover](https://user-images.githubusercontent.com/39461509/89110709-b68f2600-d423-11ea-895b-2834c2355659.gif)s
+![Desafio 01 _ Efeito camadas em 3D utilizando hover outra resolução](https://user-images.githubusercontent.com/39461509/89110778-77150980-d424-11ea-925f-11a97c40ab74.gif)
 
 ##### O que eu aprendi e foi utillizado: 
 
