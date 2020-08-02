@@ -19,12 +19,13 @@
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 * [Dia 01 | Ícones de mídias sociais em camadas](#id01)
+* [Dia 02 | Tela de loading animado](#id02)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
 ![Desafio 01 _ Efeito camadas em 3D utilizando hover outra resolução](https://user-images.githubusercontent.com/39461509/89110778-77150980-d424-11ea-925f-11a97c40ab74.gif)
 
-##### O que eu aprendi e foi utillizado: 
+##### O que eu aprendi: 
 
 * Criar camadas usando a tag `<span>`.
 * Flexbox com align-items e justify-content.
@@ -33,5 +34,12 @@
 * Utilizar hover.
 
 
+##  Desafio dia 02 - Tela de loading animado <a name="id02"></a>
 
+![Desafio 02 _ Animação com tela de loading gradiente com brilho](https://user-images.githubusercontent.com/39461509/89125106-732fc880-d4b2-11ea-9a13-5c57cf389438.gif)
 
+##### O que eu aprendi:
+
+* Mover elementos utilizando keyframes
+* Utilizar a propriedade animation do CSS.
+* Utilizar propriedade transform para modificar os elementos do loading.
