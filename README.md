@@ -1,27 +1,36 @@
-# 30diasDeCSS
-
 <p align="center">
-<image src="https://img.shields.io/github/last-commit/leandrorangel94/30diasDeCSS?style=plastic" />
-<image src="https://img.shields.io/apm/l/vim-mode?color=red&style=plastic" />
-<image src="https://img.shields.io/github/languages/top/leandrorangel94/30diasDeCSS?style=plastic" />
+<h1> #30diasDeCSS :calendar: </h1>
 </p>
 
+<p align="center">
+  <image 
+  src="https://img.shields.io/github/last-commit/leandrorangel94/30diasDeCSS?color=blue&style=plastic"
+  />
+
+  <image 
+  src="https://img.shields.io/apm/l/vim-mode?color=blue&style=plastic" 
+  />
+
+  <image 
+  src="https://img.shields.io/github/languages/top/leandrorangel94/30diasDeCSS?color=blue&style=plastic" 
+  />
+</p>
 
 ## Sobre :memo:
 
  30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
 
- ## Objetivo
+ ## Objetivo :heavy_check_mark:
 
 30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 1 de Agosto de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de pequenos projetos.
 
-## Regras Gerais
+## Regras Gerais :warning:
 
 * Realizar um projeto por dia
 * Compartilhe seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
-#### Referencias dos desafios - Canais do YouTube
+#### Referencias dos desafios - Canais do YouTube :arrow_forward:
 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
@@ -78,7 +87,7 @@
 - <a href="https://devdocs.io/css/">CSS3</a>
 
 
-## Como contribuir 🤔
+## Como contribuir :thinking:
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
