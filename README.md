@@ -1,12 +1,21 @@
 # 30diasDeCSS
 
+<p align="center">
+<image src="https://img.shields.io/github/last-commit/leandrorangel94/30diasDeCSS?style=plastic" />
+<image src="https://img.shields.io/apm/l/vim-mode?color=red&style=plastic" />
+<image src="https://img.shields.io/github/languages/top/leandrorangel94/30diasDeCSS?style=plastic" />
+</p>
+
+
+## Sobre :memo:
+
  30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
 
- # Objetivo
+ ## Objetivo
 
 30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 1 de Agosto de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de pequenos projetos.
 
-# Regras Gerais
+## Regras Gerais
 
 * Realizar um projeto por dia
 * Compartilhe seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #30diasDeCSS
@@ -63,17 +72,23 @@
 
 ---
 
-## How to Contribute 🤔
+## Tecnologias :rocket:
 
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: my new feature'`;
-- Push to your branch: `git push origin my-feature`.
+- <a href="https://devdocs.io/html/">HTML5</a>
+- <a href="https://devdocs.io/css/">CSS3</a>
 
-## License :scroll:
 
-> This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
+## Como contribuir 🤔
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+## Licença :scroll:
+
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-##### <p align="center"> <strong> < develop by <a href="#"> @yournickname  </a> /> </strong>  :wave:
+##### <p align="center"> <strong> < Feito por <a href="#"> @leandrorangel94  </a> /> </strong>  :wave:
