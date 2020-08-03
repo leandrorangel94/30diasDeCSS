@@ -18,8 +18,13 @@
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
+---
+
 * [Dia 01 | Ícones de mídias sociais em camadas](#id01)
 * [Dia 02 | Tela de loading animado](#id02)
+* [Dia 03 | Checkbox de modo noturno](#id03)
+
+---
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
@@ -40,6 +45,35 @@
 
 ##### O que eu aprendi:
 
-* Mover elementos utilizando keyframes
+* Mover elementos utilizando keyframes.
 * Utilizar a propriedade animation do CSS.
 * Utilizar propriedade transform para modificar os elementos do loading.
+
+##  Desafio dia 03 - Checkbox de modo noturno <a name="id03"></a>
+
+
+![Dia 03 _ Checkbox - Modo Noturno](https://user-images.githubusercontent.com/39461509/89191444-501c1c00-d579-11ea-8a7d-5886d57044b5.gif)
+
+##### O que eu aprendi:
+
+* Estilização de input com tipo checkbox.
+* Utilizar os pseudo-elementos :after e :before com transform para mudar a estilização da página.
+* Mover elementos com translateX() do transform.
+* Transição CSS com ease-in.
+
+---
+
+## How to Contribute 🤔
+
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: my new feature'`;
+- Push to your branch: `git push origin my-feature`.
+
+## License :scroll:
+
+> This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
+
+---
+
+##### <p align="center"> <strong> < develop by <a href="#"> @yournickname  </a> /> </strong>  :wave:
