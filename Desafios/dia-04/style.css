@@ -1,0 +1,52 @@
+/* Estilos globais */
+
+html{
+  min-height: 100%;
+  overflow: hidden;
+}
+
+body{
+  height: calc(100vh - 8em);
+  padding: 2em;
+  color: rgba(255,255, 255, 0.75);
+  font-family: 'Anonymous Pro', monospace;
+  background-color: rgb(25,25,25);
+}
+
+.linha{
+  position: relative;
+  top: 50%;
+  width: 11em;
+  margin: 0 14em;
+  border-right: 2px solid rgba(255,255,255,0.75);
+  font-size: 300%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+
+/* Animação */
+
+.anim-typewriter{
+  animation: typewriter 4s steps(40) 1s 1  normal both,
+  blinkTextCursor 500ms steps(40) infinite normal;
+}
+
+@keyframes typewriter{
+  from{
+    width: 0;
+  }
+  to{
+    width: 11em;
+  }
+}
+
+@keyframes blinkTextCursor{
+  from{
+    border-right-color: rgba(255,255, 255, 0.75);
+  }
+  to{
+    border-right-color: transparent;
+  }
+}
