@@ -30,13 +30,15 @@
 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
-[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) -
+[Codegrid](https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw)
 
 ---
 
 * [Dia 01 | Ícones de mídias sociais em camadas](#id01)
 * [Dia 02 | Tela de loading animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
+* [Dia 04 | Animação com efeito maquina de escrever](#id04)
 
 ---
 
@@ -75,13 +77,17 @@
 * Mover elementos com translateX() do transform.
 * Transição CSS com ease-in.
 
+##  Desafio dia 04 - Animação com efeito typewriter (maquina de escrever) <a name="id04"></a>
+
+![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
+
+##### O que eu aprendi:
+
+* Criar efeito de cursor de texto piscando com animation.
+* utilizar unidade de medida `em`.
+* melhorar minhas habilidades utilizando `@keyframes` criando animações usando `from{}` e `to{}`.
+
 ---
-
-## Tecnologias :rocket:
-
-- <a href="https://devdocs.io/html/">HTML5</a>
-- <a href="https://devdocs.io/css/">CSS3</a>
-
 
 ## Como contribuir :thinking:
 
