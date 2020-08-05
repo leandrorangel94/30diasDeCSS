@@ -39,6 +39,8 @@
 * [Dia 02 | Tela de loading animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
 * [Dia 04 | Animação com efeito maquina de escrever](#id04)
+* [Dia 05 | Animação usando caixa de pesquisa](#id05)
+
 
 ---
 
@@ -86,6 +88,10 @@
 * Criar efeito de cursor de texto piscando com animation.
 * utilizar unidade de medida `em`.
 * melhorar minhas habilidades utilizando `@keyframes` criando animações usando `from{}` e `to{}`.
+
+##  Desafio dia 05 - Animação usando caixa de pesquisar <a name="id05"></a>
+
+![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
 ---
 
