@@ -14,17 +14,15 @@
 
 ## Sobre :memo:
 
- 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
+ 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades como desenvolvedor fazendo pequenos projetos diários utilizando HTML5 e CSS3. Iniciei meu desafio no dia 1 de Agosto de 2020. Para saber mais sobre este desafio, acesse: 
 
- ## Objetivo :heavy_check_mark:
-
-30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 1 de Agosto de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de pequenos projetos.
+ [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS)
 
 ## Regras Gerais :warning:
 
-* Realizar um projeto por dia
-* Compartilhe seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #30diasDeCSS
-* O projeto deve ser concluído até 23:59
+* Realizar um projeto por dia.
+* Compartilhe seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #30diasDeCSS.
+* O projeto deve ser concluído até 23:59.
 
 #### Referencias dos desafios - Canais do YouTube :arrow_forward:
 
@@ -40,7 +38,7 @@
 * [Dia 03 | Checkbox de modo noturno](#id03)
 * [Dia 04 | Animação com efeito maquina de escrever](#id04)
 * [Dia 05 | Animação usando caixa de pesquisa](#id05)
-
+* [Dia 06 | Ferramenta de avaliação de 5 estrelas](#id06)
 
 ---
 
@@ -92,6 +90,10 @@
 ##  Desafio dia 05 - Animação usando caixa de pesquisar <a name="id05"></a>
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
+
+##  Desafio dia 06 - Ferramenta de avaliação de 5 estrelas <a name="id06"></a>
+
+![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
 
 ---
 
