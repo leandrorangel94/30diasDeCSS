@@ -14,7 +14,7 @@
 
 ## Sobre :memo:
 
- 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades como desenvolvedor fazendo pequenos projetos diários utilizando HTML5 e CSS3. Iniciei meu desafio no dia 1 de Agosto de 2020. Para saber mais sobre este desafio, acesse: 
+ 30 dias de CSS, é um desafio que visa ajudá-lo a melhorar suas habilidades como desenvolvedor fazendo pequenos projetos diários utilizando HTML5 e CSS3. Iniciei meu desafio no dia 1 de Agosto de 2020. Para saber mais sobre este desafio, acesse: 
 
  [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS)
 
