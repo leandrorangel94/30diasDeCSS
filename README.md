@@ -4,11 +4,9 @@
   <image 
   src="https://img.shields.io/github/last-commit/leandrorangel94/30diasDeCSS?color=blue&style=plastic"
   />
-
   <image 
   src="https://img.shields.io/apm/l/vim-mode?color=blue&style=plastic" 
   />
-
   <image 
   src="https://img.shields.io/github/languages/top/leandrorangel94/30diasDeCSS?color=blue&style=plastic" 
   />
