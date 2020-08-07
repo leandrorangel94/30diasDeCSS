@@ -4,9 +4,11 @@
   <image 
   src="https://img.shields.io/github/last-commit/leandrorangel94/30diasDeCSS?color=blue&style=plastic"
   />
+
   <image 
   src="https://img.shields.io/apm/l/vim-mode?color=blue&style=plastic" 
   />
+
   <image 
   src="https://img.shields.io/github/languages/top/leandrorangel94/30diasDeCSS?color=blue&style=plastic" 
   />
@@ -14,9 +16,7 @@
 
 ## Sobre :memo:
 
- 30 dias de CSS, é um desafio que visa ajudá-lo a melhorar suas habilidades como desenvolvedor fazendo pequenos projetos diários utilizando HTML5 e CSS3. Iniciei meu desafio no dia 1 de Agosto de 2020. Para saber mais sobre este desafio, acesse: 
-
- [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS)
+ 30 dias de CSS, é um desafio que visa ajudá-lo a melhorar suas habilidades como desenvolvedor fazendo pequenos projetos diários utilizando HTML5 e CSS3. Iniciei meu desafio no dia 1 de Agosto de 2020. Para saber mais sobre este desafio, acesse: [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS)
 
 ## Regras Gerais :warning:
 
@@ -39,6 +39,7 @@
 * [Dia 04 | Animação com efeito maquina de escrever](#id04)
 * [Dia 05 | Animação usando caixa de pesquisa](#id05)
 * [Dia 06 | Ferramenta de avaliação de 5 estrelas](#id06)
+* [Dia 07 | Card com barra de progresso circular](#id07)
 
 ---
 
@@ -53,7 +54,6 @@
 * Utilizar a pseudo-classe nth-child.
 * Transições CSS.
 * Utilizar hover.
-
 
 ##  Desafio dia 02 - Tela de loading animado <a name="id02"></a>
 
@@ -91,9 +91,26 @@
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
+##### O que eu aprendi:
+* Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
+
 ##  Desafio dia 06 - Ferramenta de avaliação de 5 estrelas <a name="id06"></a>
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
+
+##### O que eu aprendi:
+* Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
+* aprendi a utilizar o combinador irmão comum `~` (conhecido como til).
+* Para que as estrelas sejam marcadas da esquerda para direita, usei rotação no eixo y em 180 graus.
+
+##  Desafio dia 07 - Card com barra de progresso circular <a name="id07"></a>
+
+![Desafio dia 07 _ Barra de progresso circular](https://user-images.githubusercontent.com/39461509/89659113-cb493f00-d8a5-11ea-90c2-f9281b7713bf.gif)
+
+##### O que eu aprendi:
+* Criar um svg usando html e estiliza-lo.
+* Aprendi a fazer e estilizar também uma barra circular.
+* pratiquei um pouco mais usando `:hover` e `nth-child()`.
 
 ---
 
@@ -110,4 +127,4 @@
 
 ---
 
-##### <p align="center"> <strong> < Feito por <a href="#"> @leandrorangel94  </a> /> </strong>  :wave:
+##### <p align="center"> <strong> < Feito por <a href="http://github.com/leandrorangel94/"> @leandrorangel94  </a> /> </strong>  :wave:
