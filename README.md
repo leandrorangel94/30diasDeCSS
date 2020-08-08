@@ -38,6 +38,7 @@
 * [Dia 05 | Animação usando caixa de pesquisa](#id05)
 * [Dia 06 | Ferramenta de avaliação de 5 estrelas](#id06)
 * [Dia 07 | Card com barra de progresso circular](#id07)
+* [Dia 08 | Animação usando texto](#id08)
 
 ---
 
@@ -109,6 +110,15 @@
 * Criar um svg usando html e estiliza-lo.
 * Aprendi a fazer e estilizar também uma barra circular.
 * pratiquei um pouco mais usando `:hover` e `nth-child()`.
+
+##  Desafio dia 08 - Animação utilizando texto <a name="id08"></a>
+
+![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
+
+##### O que eu aprendi:
+* Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
+* Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
+
 
 ---
 
