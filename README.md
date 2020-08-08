@@ -1,6 +1,4 @@
-<p align="center">
-  <h1> 30diasDeCSS :calendar: </h1>
-</p>
+<h1 align="center"> 30diasDeCSS :calendar: </h1>
 
 <p align="center">
   <image 
