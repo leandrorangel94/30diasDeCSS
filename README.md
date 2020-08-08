@@ -1,4 +1,6 @@
-# 30diasDeCSS :calendar:
+<p align="center">
+  <h1> 30diasDeCSS :calendar: </h1>
+</p>
 
 <p align="center">
   <image 
@@ -66,7 +68,6 @@
 
 ##  Desafio dia 03 - Checkbox de modo noturno <a name="id03"></a>
 
-
 ![Dia 03 _ Checkbox - Modo Noturno](https://user-images.githubusercontent.com/39461509/89191444-501c1c00-d579-11ea-8a7d-5886d57044b5.gif)
 
 ##### O que eu aprendi:
@@ -119,7 +120,6 @@
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
 * Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
 
-
 ---
 
 ## Como contribuir :thinking:
@@ -135,4 +135,4 @@
 
 ---
 
-##### <p align="center"> <strong> < Feito por <a href="http://github.com/leandrorangel94/"> @leandrorangel94  </a> /> </strong>  :wave:
+##### <p align="center"> <strong> < Desenvolvido por <a href="http://github.com/leandrorangel94/"> @leandrorangel94  </a> /> </strong>  :wave:
