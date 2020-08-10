@@ -39,6 +39,8 @@
 * [Dia 06 | Ferramenta de avaliação de 5 estrelas](#id06)
 * [Dia 07 | Card com barra de progresso circular](#id07)
 * [Dia 08 | Animação usando texto](#id08)
+* [Dia 09 | Animação indicando rolagem para baixo](#id08)
+
 
 ---
 
@@ -117,6 +119,15 @@
 ##### O que eu aprendi:
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
 * Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
+
+##  Desafio dia 09 - Animação indicando rolagem para baixo <a name="id09"></a>
+
+![Dia 9 _ Animação de indicador Scroll Down](https://user-images.githubusercontent.com/39461509/89744681-bb885100-da85-11ea-942b-1c85ccba2cca.gif)
+
+##### O que eu aprendi:
+
+* Neste projeto pratiquei um pouco mais usando nth-child() e keyframes para criar animações
+* Aprendi a criar setas usando bordas de elementos e rotação.
 
 ---
 
