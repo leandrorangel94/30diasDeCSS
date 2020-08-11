@@ -40,7 +40,7 @@
 * [Dia 07 | Card com barra de progresso circular](#id07)
 * [Dia 08 | Animação usando texto](#id08)
 * [Dia 09 | Animação indicando rolagem para baixo](#id09)
-* [Dia 09 | Animação indicando setas de anterior/proximo](#id10)
+* [Dia 10 | Animação indicando setas de anterior/proximo](#id10)
 
 ---
 
