@@ -39,8 +39,8 @@
 * [Dia 06 | Ferramenta de avaliação de 5 estrelas](#id06)
 * [Dia 07 | Card com barra de progresso circular](#id07)
 * [Dia 08 | Animação usando texto](#id08)
-* [Dia 09 | Animação indicando rolagem para baixo](#id08)
-
+* [Dia 09 | Animação indicando rolagem para baixo](#id09)
+* [Dia 09 | Animação indicando setas de anterior/proximo](#id10)
 
 ---
 
@@ -128,6 +128,12 @@
 
 * Neste projeto pratiquei um pouco mais usando nth-child() e keyframes para criar animações
 * Aprendi a criar setas usando bordas de elementos e rotação.
+
+##  Desafio dia 10 - Animação indicando setas de anterior/proximo<a name="id10"></a>
+
+
+![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
+
 
 ---
 
