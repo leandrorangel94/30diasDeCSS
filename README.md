@@ -145,7 +145,7 @@
 
 ##### O que eu aprendi:
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
-*Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
+* Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
 
 
 ---
