@@ -41,6 +41,7 @@
 * [Dia 08 | Animação usando texto](#id08)
 * [Dia 09 | Animação indicando rolagem para baixo](#id09)
 * [Dia 10 | Animação indicando setas de anterior/proximo](#id10)
+* [Dia 11 | Animação de loading circular](#id11)
 
 ---
 
@@ -133,6 +134,18 @@
 
 
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
+
+##### O que eu aprendi:
+* Neste projeto apliquei muito o uso da propriedade `transform` nas setas
+* Também pude praticar muito usando o `hover` para mudar o elemento ao passar o ponteiro por cima dele.
+
+##  Desafio dia 11 - Animação indicando setas de anterior/proximo<a name="id11"></a>
+
+![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
+
+##### O que eu aprendi:
+* Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
+*Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
 
 
 ---
