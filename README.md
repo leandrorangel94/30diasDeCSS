@@ -42,6 +42,7 @@
 * [Dia 09 | Animação indicando rolagem para baixo](#id09)
 * [Dia 10 | Animação indicando setas de anterior/proximo](#id10)
 * [Dia 11 | Animação de loading circular](#id11)
+* [Dia 12 | Hambúrguer Menu com sobreposição na tela](#id12)
 
 ---
 
@@ -147,6 +148,13 @@
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
 * Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
 
+##  Desafio dia 12 - Hambúrguer Menu com sobreposição na tela <a name="id12"></a>
+
+![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
+
+##### O que eu aprendi:
+* Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
+* Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
 
 ---
 
