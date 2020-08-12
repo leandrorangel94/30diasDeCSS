@@ -139,7 +139,7 @@
 * Neste projeto apliquei muito o uso da propriedade `transform` nas setas
 * Também pude praticar muito usando o `hover` para mudar o elemento ao passar o ponteiro por cima dele.
 
-##  Desafio dia 11 - Animação indicando setas de anterior/proximo<a name="id11"></a>
+##  Desafio dia 11 - Animação de loading circular<a name="id11"></a>
 
 ![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
 
