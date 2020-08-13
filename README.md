@@ -43,6 +43,7 @@
 * [Dia 10 | Animação indicando setas de anterior/proximo](#id10)
 * [Dia 11 | Animação de loading circular](#id11)
 * [Dia 12 | Hambúrguer Menu com sobreposição na tela](#id12)
+* [Dia 13 | Animação em botões de paginação](#id13)
 
 ---
 
@@ -155,6 +156,14 @@
 ##### O que eu aprendi:
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
 * Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
+
+##  Desafio dia 12 - Hambúrguer Menu com sobreposição na tela <a name="id12"></a>
+
+![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
+
+##### O que eu aprendi:
+* Neste projeto pude praticar um pouco mais usando operador irmão comum `~` e `nth-child()`.
+* Aprendi a criar uma barra na parte inferior para usar em botões para destaca-los.
 
 ---
 
