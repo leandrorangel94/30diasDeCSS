@@ -157,7 +157,7 @@
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
 * Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
 
-##  Desafio dia 12 - Hambúrguer Menu com sobreposição na tela <a name="id12"></a>
+##  Desafio dia 12 - Animação usando hover em botões de paginação <a name="id13"></a>
 
 ![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
 
