@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+}
+
+body{
+  background-color: #232D39;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination{
+  background-color: #414e5e;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.pagination a{
+  width: 100px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  color: #232D39;
+  font-size: 18px;
+  font-weight: 700;
+  transition: .3s linear;
+}
+
+.pagination a:hover{
+  color: #eb4d4b;
+}
+
+.bar{
+  position: absolute;
+  width: 100px;
+  height: 4px;
+  background-color: #eb4d4b;
+  bottom: 0;
+  left: -100px;
+  transition: .4s linear;
+}
+
+.pagination a:nth-child(1):hover ~ .bar{
+  left:0;
+}
+
+.pagination a:nth-child(2):hover ~ .bar{
+  left: 100px;
+}
+
+.pagination a:nth-child(3):hover ~ .bar{
+  left:200px;
+}
+
+.pagination a:nth-child(4):hover ~ .bar{
+  left:300px;
+}
+
+.pagination a:nth-child(5):hover ~ .bar{
+  left:400px;
+}
+
+.pagination a:nth-child(6):hover ~ .bar{
+  left:500px;
+}
+
+.pagination a:nth-child(7):hover ~ .bar{
+  left:600px;
+}
+
+.pagination a:nth-child(8):hover ~ .bar{
+  left:700px;
+}
+
+.pagination a:nth-child(9):hover ~ .bar{
+  left:800px;
+}
