@@ -46,6 +46,8 @@
 * [Dia 13 | Animação em botões de paginação](#id13)
 * [Dia 14 | Animação de card girando](#id14)
 * [Dia 15 | Animação em card de informações para contato](#id15)
+* [Dia 16 | Efeito de apresentação de imagens com botões de navegação](#id16)
+
 
 ---
 
@@ -174,6 +176,10 @@
 ##  Desafio dia 15 - Animação em card de informações para contato <a name="id15"></a>
 
 ![Dia 15 _ Animação em card de informações para contato](https://user-images.githubusercontent.com/39461509/90325011-7b751280-df4c-11ea-80e5-c3eb1b4379f3.gif)
+
+##  Desafio dia 16 - Efeito de apresentação de imagens com botões de navegação <a name="id16"></a>
+
+![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
 
 ---
 
