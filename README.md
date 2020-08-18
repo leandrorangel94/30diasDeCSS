@@ -48,6 +48,8 @@
 * [Dia 15 | Animação em card de informações para contato](#id15)
 * [Dia 16 | Efeito de apresentação de imagens com botões de navegação](#id16)
 * [Dia 17 | Efeito de botões brilhando e alternando a cor](#id17)
+* [Dia 18 | Animação usando barra de progresso](#id18)
+
 
 
 ---
@@ -186,6 +188,10 @@
 ## Desafio 17 - Efeito de botões brilhando e alternando a cor <a name="id17"></a>
 
 ![Dia 17 _ Efeito de botões brilhando](https://user-images.githubusercontent.com/39461509/90460611-9a091400-e0da-11ea-8e75-b7fa0e5acebf.gif)
+
+## Desafio 18 - Animação usando barra de progresso <a name="id18"></a>
+
+![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
 
 
 ---
