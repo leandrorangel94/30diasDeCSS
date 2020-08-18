@@ -47,6 +47,7 @@
 * [Dia 14 | Animação de card girando](#id14)
 * [Dia 15 | Animação em card de informações para contato](#id15)
 * [Dia 16 | Efeito de apresentação de imagens com botões de navegação](#id16)
+* [Dia 17 | Efeito de botões brilhando e alternando a cor](#id17)
 
 
 ---
@@ -180,6 +181,12 @@
 ##  Desafio dia 16 - Efeito de apresentação de imagens com botões de navegação <a name="id16"></a>
 
 ![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
+
+
+## Desafio 17 - Efeito de botões brilhando e alternando a cor <a name="id17"></a>
+
+![Dia 17 _ Efeito de botões brilhando](https://user-images.githubusercontent.com/39461509/90460611-9a091400-e0da-11ea-8e75-b7fa0e5acebf.gif)
+
 
 ---
 
