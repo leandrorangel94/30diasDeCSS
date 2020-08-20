@@ -49,7 +49,7 @@
 * [Dia 16 | Efeito de apresentação de imagens com botões de navegação](#id16)
 * [Dia 17 | Efeito de botões brilhando e alternando a cor](#id17)
 * [Dia 18 | Animação usando barra de progresso](#id18)
-
+* [Dia 19 | Animação de uma barra de navegação](#id19)
 
 
 ---
@@ -192,6 +192,10 @@
 ## Desafio 18 - Animação usando barra de progresso <a name="id18"></a>
 
 ![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
+
+## Desafio 19 - Animação de uma barra de navegação <a name="id19"></a>
+
+![Dia 19 _ Barra de navegação animada](https://user-images.githubusercontent.com/39461509/90713853-a7f69a80-e27c-11ea-9806-66961c23b4d2.gif)
 
 
 ---
