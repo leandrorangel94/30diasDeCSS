@@ -50,7 +50,7 @@
 * [Dia 17 | Efeito de botões brilhando e alternando a cor](#id17)
 * [Dia 18 | Animação usando barra de progresso](#id18)
 * [Dia 19 | Animação de uma barra de navegação](#id19)
-* [Dia 20 | Formulário de tela de login](#id19)
+* [Dia 20 | Formulário de tela de login](#id20)
 
 ---
 
