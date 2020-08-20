@@ -58,6 +58,8 @@
 
 ![Desafio 01 _ Efeito camadas em 3D utilizando hover outra resolução](https://user-images.githubusercontent.com/39461509/89110778-77150980-d424-11ea-925f-11a97c40ab74.gif)
 
+* Confira no CodePen: [Projeto 1: Camadas 3D](https://codepen.io/leandrorangel94/pen/PoNbYPq)
+
 ##### O que eu aprendi: 
 
 * Criar camadas usando a tag `<span>`.
