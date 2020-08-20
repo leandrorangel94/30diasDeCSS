@@ -60,9 +60,9 @@
 
 * Confira no CodePen: [Projeto 1: Camadas 3D](https://codepen.io/leandrorangel94/pen/PoNbYPq)
 
-##### O que eu aprendi: 
+##### O que estudar para criar este efeito: 
 
-* Criar camadas usando a tag `<span>`.
+* Como criar camadas usando a tag `<span>`.
 * Flexbox com align-items e justify-content.
 * Utilizar a pseudo-classe nth-child.
 * Transições CSS.
@@ -72,7 +72,7 @@
 
 ![Desafio 02 _ Animação com tela de loading gradiente com brilho](https://user-images.githubusercontent.com/39461509/89125106-732fc880-d4b2-11ea-9a13-5c57cf389438.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 
 * Mover elementos utilizando keyframes.
 * Utilizar a propriedade animation do CSS.
@@ -82,7 +82,7 @@
 
 ![Dia 03 _ Checkbox - Modo Noturno](https://user-images.githubusercontent.com/39461509/89191444-501c1c00-d579-11ea-8a7d-5886d57044b5.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 
 * Estilização de input com tipo checkbox.
 * Utilizar os pseudo-elementos :after e :before com transform para mudar a estilização da página.
@@ -93,7 +93,7 @@
 
 ![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 
 * Criar efeito de cursor de texto piscando com animation.
 * utilizar unidade de medida `em`.
@@ -103,14 +103,14 @@
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
 
 ##  Desafio dia 06 - Ferramenta de avaliação de 5 estrelas <a name="id06"></a>
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
 * aprendi a utilizar o combinador irmão comum `~` (conhecido como til).
 * Para que as estrelas sejam marcadas da esquerda para direita, usei rotação no eixo y em 180 graus.
@@ -119,7 +119,7 @@
 
 ![Desafio dia 07 _ Barra de progresso circular](https://user-images.githubusercontent.com/39461509/89659113-cb493f00-d8a5-11ea-90c2-f9281b7713bf.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Criar um svg usando html e estiliza-lo.
 * Aprendi a fazer e estilizar também uma barra circular.
 * pratiquei um pouco mais usando `:hover` e `nth-child()`.
@@ -128,7 +128,7 @@
 
 ![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
 * Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
 
@@ -136,7 +136,7 @@
 
 ![Dia 9 _ Animação de indicador Scroll Down](https://user-images.githubusercontent.com/39461509/89744681-bb885100-da85-11ea-942b-1c85ccba2cca.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 
 * Neste projeto pratiquei um pouco mais usando nth-child() e keyframes para criar animações
 * Aprendi a criar setas usando bordas de elementos e rotação.
@@ -146,7 +146,7 @@
 
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Neste projeto apliquei muito o uso da propriedade `transform` nas setas
 * Também pude praticar muito usando o `hover` para mudar o elemento ao passar o ponteiro por cima dele.
 
@@ -154,7 +154,7 @@
 
 ![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
 * Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
 
@@ -162,7 +162,7 @@
 
 ![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
 * Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
 
@@ -170,7 +170,8 @@
 
 ![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
 
-##### O que eu aprendi:
+##### O que estudar para criar este efeito:
+
 * Neste projeto pude praticar um pouco mais usando operador irmão comum `~` e `nth-child()`.
 * Aprendi a criar uma barra na parte inferior para usar em botões para destaca-los.
 
@@ -178,30 +179,75 @@
 
 ![Dia 14 _ Animação de card girando ao passar o mouse](https://user-images.githubusercontent.com/39461509/90274755-7d997d00-de37-11ea-95d0-800f0824162f.gif)
 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 ##  Desafio dia 15 - Animação em card de informações para contato <a name="id15"></a>
 
 ![Dia 15 _ Animação em card de informações para contato](https://user-images.githubusercontent.com/39461509/90325011-7b751280-df4c-11ea-80e5-c3eb1b4379f3.gif)
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
 
 ##  Desafio dia 16 - Efeito de apresentação de imagens com botões de navegação <a name="id16"></a>
 
 ![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
 
 
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 ## Desafio 17 - Efeito de botões brilhando e alternando a cor <a name="id17"></a>
 
 ![Dia 17 _ Efeito de botões brilhando](https://user-images.githubusercontent.com/39461509/90460611-9a091400-e0da-11ea-8e75-b7fa0e5acebf.gif)
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
 
 ## Desafio 18 - Animação usando barra de progresso <a name="id18"></a>
 
 ![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
 
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 ## Desafio 19 - Animação de uma barra de navegação <a name="id19"></a>
 
 ![Dia 19 _ Barra de navegação animada](https://user-images.githubusercontent.com/39461509/90713853-a7f69a80-e27c-11ea-9806-66961c23b4d2.gif)
 
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 ## Desafio 20 - Formulário de tela de login <a name="id20"></a>
 
 ![Dia 20 _ Formulário de tela de login](https://user-images.githubusercontent.com/39461509/90770582-5ffd6500-e2c8-11ea-8fca-d5c63452218d.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
 
 ---
 
