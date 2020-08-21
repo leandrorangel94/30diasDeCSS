@@ -51,6 +51,8 @@
 * [Dia 18 | Animação usando barra de progresso](#id18)
 * [Dia 19 | Animação de uma barra de navegação](#id19)
 * [Dia 20 | Formulário de tela de login](#id20)
+* [Dia 21 | Animação usando card de produto](#id21)
+
 
 ---
 
@@ -240,6 +242,18 @@
 ## Desafio 20 - Formulário de tela de login <a name="id20"></a>
 
 ![Dia 20 _ Formulário de tela de login](https://user-images.githubusercontent.com/39461509/90770582-5ffd6500-e2c8-11ea-8fca-d5c63452218d.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 21 - Animação usando card de Produto <a name="id21"></a>
+
+![Dia 21 _ Animação usando card de produto](https://user-images.githubusercontent.com/39461509/90889644-e8463d80-e38e-11ea-9d0a-6a722705bd5a.gif)
 
 * Confira no CodePen: 
 
