@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #13111C;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+li{
+  display: inline-block;
+}
+
+li a{
+  text-decoration: none;
+  display: inline-block;
+  color: #9a90bb;
+  font-family: 'Source Sans Pro';
+  font-weight: lighter;
+  font-size: 30px;
+  padding: 0 20px;
+}
+
+.cool-link::after{
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #9a90bb;
+  transition: width .3s;
+}
+
+.cool-link:hover::after{
+  width: 100%;
+  transition: width .3s;
+}
