@@ -52,6 +52,7 @@
 * [Dia 19 | Animação de uma barra de navegação](#id19)
 * [Dia 20 | Formulário de tela de login](#id20)
 * [Dia 21 | Animação usando card de produto](#id21)
+* [Dia 22 | Animação usando sublinhado em links](#id22)
 
 
 ---
@@ -254,6 +255,19 @@
 ## Desafio 21 - Animação usando card de Produto <a name="id21"></a>
 
 ![Dia 21 _ Animação usando card de produto](https://user-images.githubusercontent.com/39461509/90889644-e8463d80-e38e-11ea-9d0a-6a722705bd5a.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 22 - Animação usando sublinhado em links <a name="id22"></a>
+
+
+![Dia 22 _ Animação usando sublinhado em links](https://user-images.githubusercontent.com/39461509/90957319-30369480-e463-11ea-85a3-af10f43a7d3e.gif)
 
 * Confira no CodePen: 
 
