@@ -1,0 +1,61 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar{
+  width: 15px;
+}
+
+::-webkit-scrollbar-track{
+  background: #101010;
+}
+
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(30deg, #7159c1a5, #261535a5);
+  border-radius: 4px;
+  opacity: 0.1;
+  transition: .5s;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background: linear-gradient(45deg, rgb(120, 100, 210), rgb(35, 20, 50));
+}
+
+section{
+  width: 100%;
+  height:300vh;
+  background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7) ), url(assets/bg.jpeg) no-repeat;
+  background-size: cover;
+}
+
+img{
+  filter: blur(5px);
+}
+
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(30deg, #7159c1, #381457);
+  border-radius: 5px;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  opacity: 0.6;
+  transition: .5s;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
+
+.gotopbtn:hover{
+  background: linear-gradient(30deg, #715fff, #38145f);
+  opacity: 1;
+}
