@@ -280,7 +280,7 @@
 
 ## Desafio 23 - Botão de voltar ao topo e scrollbar customizada <a name="id23"></a>
 
-![bg](https://user-images.githubusercontent.com/39461509/90986625-aa961000-e55a-11ea-812a-2e8e4c722f04.jpeg)
+![Dia 23 _ Botão de voltar ao topo da página](https://user-images.githubusercontent.com/39461509/90986687-137d8800-e55b-11ea-911f-86338eb1bfd3.gif)
 
 * Confira no CodePen: 
 
