@@ -53,6 +53,7 @@
 * [Dia 20 | Formulário de tela de login](#id20)
 * [Dia 21 | Animação usando card de produto](#id21)
 * [Dia 22 | Animação usando sublinhado em links](#id22)
+* [Dia 22 | Botão de voltar ao topo e scrollbar customizada](#id23)
 
 
 ---
@@ -268,6 +269,18 @@
 
 
 ![Dia 22 _ Animação usando sublinhado em links](https://user-images.githubusercontent.com/39461509/90957319-30369480-e463-11ea-85a3-af10f43a7d3e.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 23 - Botão de voltar ao topo e scrollbar customizada <a name="id23"></a>
+
+![bg](https://user-images.githubusercontent.com/39461509/90986625-aa961000-e55a-11ea-812a-2e8e4c722f04.jpeg)
 
 * Confira no CodePen: 
 
