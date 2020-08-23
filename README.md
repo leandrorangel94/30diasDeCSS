@@ -53,7 +53,7 @@
 * [Dia 20 | Formulário de tela de login](#id20)
 * [Dia 21 | Animação usando card de produto](#id21)
 * [Dia 22 | Animação usando sublinhado em links](#id22)
-* [Dia 22 | Botão de voltar ao topo e scrollbar customizada](#id23)
+* [Dia 23 | Botão de voltar ao topo e scrollbar customizada](#id23)
 
 
 ---
