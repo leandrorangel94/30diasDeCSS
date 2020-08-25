@@ -54,6 +54,8 @@
 * [Dia 21 | Animação usando card de produto](#id21)
 * [Dia 22 | Animação usando sublinhado em links](#id22)
 * [Dia 23 | Botão de voltar ao topo e scrollbar customizada](#id23)
+* [Dia 24 | Animação em cards de planos/serviços](#id24)
+
 
 
 ---
@@ -281,6 +283,19 @@
 ## Desafio 23 - Botão de voltar ao topo e scrollbar customizada <a name="id23"></a>
 
 ![Dia 23 _ Botão de voltar ao topo da página](https://user-images.githubusercontent.com/39461509/90986687-137d8800-e55b-11ea-911f-86338eb1bfd3.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 24 - Animação em cards de planos/serviços <a name="id24"></a>
+
+
+![Dia 24 _ Animação em campos de caixas de serviços](https://user-images.githubusercontent.com/39461509/91111120-0abdac80-e656-11ea-8ba9-cc4020105299.gif)
 
 * Confira no CodePen: 
 
