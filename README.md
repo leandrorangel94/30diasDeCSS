@@ -55,6 +55,7 @@
 * [Dia 22 | Animação usando sublinhado em links](#id22)
 * [Dia 23 | Botão de voltar ao topo e scrollbar customizada](#id23)
 * [Dia 24 | Animação em cards de planos/serviços](#id24)
+* [Dia 25 | Mudando o cursor usando hover](#id25)
 
 
 
@@ -296,6 +297,19 @@
 
 
 ![Dia 24 _ Animação em campos de caixas de serviços](https://user-images.githubusercontent.com/39461509/91111120-0abdac80-e656-11ea-8ba9-cc4020105299.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 25 - Mudando o cursor usando hover <a name="id25"></a>
+
+![Dia 25 _ Mudança do ponteiro ao passar o mouse](https://user-images.githubusercontent.com/39461509/91247221-298c7380-e728-11ea-9857-7ae7d9a879fe.gif)
+
 
 * Confira no CodePen: 
 
