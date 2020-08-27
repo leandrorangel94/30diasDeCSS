@@ -319,6 +319,19 @@
 *
 *
 
+## Desafio 26 - Animação de tela de carregamento usando efeito líquido <a name="id26"></a>
+
+
+![Dia 26 _ Animação de loading liquido](https://user-images.githubusercontent.com/39461509/91369212-9a439680-e7e1-11ea-9077-f0066866ca23.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 ---
 
 ## Como contribuir :thinking:
