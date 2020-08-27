@@ -56,6 +56,7 @@
 * [Dia 23 | Botão de voltar ao topo e scrollbar customizada](#id23)
 * [Dia 24 | Animação em cards de planos/serviços](#id24)
 * [Dia 25 | Mudando o cursor usando hover](#id25)
+* [Dia 26 | Animação de tela de carregamento usando efeito líquido](#id26)
 
 
 
