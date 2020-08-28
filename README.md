@@ -57,6 +57,7 @@
 * [Dia 24 | Animação em cards de planos/serviços](#id24)
 * [Dia 25 | Mudando o cursor usando hover](#id25)
 * [Dia 26 | Animação de tela de carregamento usando efeito líquido](#id26)
+* [Dia 27 | Página de erro personalizada](#id27)
 
 
 
@@ -324,6 +325,19 @@
 
 
 ![Dia 26 _ Animação de loading liquido](https://user-images.githubusercontent.com/39461509/91369212-9a439680-e7e1-11ea-9077-f0066866ca23.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 27 - Página de erro personalizada <a name="id27"></a>
+
+
+![Dia 27 _ Página de erro 404 customizada](https://user-images.githubusercontent.com/39461509/91516002-d4379a00-e8c0-11ea-9726-5f9bcd679715.gif)
 
 * Confira no CodePen: 
 
