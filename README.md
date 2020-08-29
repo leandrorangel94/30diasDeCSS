@@ -58,8 +58,7 @@
 * [Dia 25 | Mudando o cursor usando hover](#id25)
 * [Dia 26 | Animação de tela de carregamento usando efeito líquido](#id26)
 * [Dia 27 | Página de erro personalizada](#id27)
-
-
+* [Dia 28 | Animação na tela de fundo da página](#id28)
 
 ---
 
@@ -338,6 +337,19 @@
 
 
 ![Dia 27 _ Página de erro 404 customizada](https://user-images.githubusercontent.com/39461509/91516002-d4379a00-e8c0-11ea-9726-5f9bcd679715.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+## Desafio 28 - Animação na tela de fundo da página <a name="id28"></a>
+
+
+![Dia 28 _ Animação no background da página](https://user-images.githubusercontent.com/39461509/91625623-2b9c3f80-e97f-11ea-82e9-1f6b9e09bdb7.gif)
 
 * Confira no CodePen: 
 
