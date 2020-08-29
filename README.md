@@ -59,6 +59,7 @@
 * [Dia 26 | Animação de tela de carregamento usando efeito líquido](#id26)
 * [Dia 27 | Página de erro personalizada](#id27)
 * [Dia 28 | Animação na tela de fundo da página](#id28)
+* [Dia 29 | Checkbox brilhando e mudando a cor quando selecionados](#id29)
 
 ---
 
@@ -358,6 +359,21 @@
 *
 *
 *
+
+## Desafio 29 - Checkbox brilhando e mudando a cor quando selecionados <a name="id29"></a>
+
+![Dia 29 _ Checkbox brilhando quando selecionados](https://user-images.githubusercontent.com/39461509/91646410-3c9f8c00-ea25-11ea-980c-1918ed32c519.gif)
+
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
+
 
 ---
 
