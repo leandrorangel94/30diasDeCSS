@@ -60,6 +60,7 @@
 * [Dia 27 | Página de erro personalizada](#id27)
 * [Dia 28 | Animação na tela de fundo da página](#id28)
 * [Dia 29 | Checkbox brilhando e mudando a cor quando selecionados](#id29)
+* [Dia 30 | Animação "That's all Folks" usando camadas com divs e texto](#id30)
 
 ---
 
@@ -372,6 +373,20 @@
 *
 *
 *
+
+## Desafio 30 - Animação "That's all Folks" usando camadas com divs e texto <a name="id30"></a>
+
+
+![desafio-30-1](https://user-images.githubusercontent.com/39461509/91668485-76cf6300-eae3-11ea-9f73-332c2a1a7c24.gif)
+
+* Confira no CodePen: 
+
+##### O que estudar para criar este efeito:
+
+*
+*
+*
+
 
 
 
