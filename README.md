@@ -31,8 +31,6 @@
 
 ---
 
-## Cronograma do meu desafio: ✅
-
 * [Dia 01 | Ícones de mídias sociais em camadas](#id01)
 * [Dia 02 | Tela de loading animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
