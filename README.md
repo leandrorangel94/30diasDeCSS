@@ -31,6 +31,8 @@
 
 ---
 
+## Cronograma do meu desafio: ✅
+
 * [Dia 01 | Ícones de mídias sociais em camadas](#id01)
 * [Dia 02 | Tela de loading animado](#id02)
 * [Dia 03 | Checkbox de modo noturno](#id03)
@@ -82,6 +84,8 @@
 
 ![Desafio 02 _ Animação com tela de loading gradiente com brilho](https://user-images.githubusercontent.com/39461509/89125106-732fc880-d4b2-11ea-9a13-5c57cf389438.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 * Mover elementos utilizando keyframes.
@@ -91,6 +95,8 @@
 ##  Desafio dia 03 - Checkbox de modo noturno <a name="id03"></a>
 
 ![Dia 03 _ Checkbox - Modo Noturno](https://user-images.githubusercontent.com/39461509/89191444-501c1c00-d579-11ea-8a7d-5886d57044b5.gif)
+
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 
@@ -103,6 +109,8 @@
 
 ![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 * Criar efeito de cursor de texto piscando com animation.
@@ -113,12 +121,16 @@
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 * Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
 
 ##  Desafio dia 06 - Ferramenta de avaliação de 5 estrelas <a name="id06"></a>
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
+
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 * Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
@@ -129,6 +141,8 @@
 
 ![Desafio dia 07 _ Barra de progresso circular](https://user-images.githubusercontent.com/39461509/89659113-cb493f00-d8a5-11ea-90c2-f9281b7713bf.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 * Criar um svg usando html e estiliza-lo.
 * Aprendi a fazer e estilizar também uma barra circular.
@@ -138,6 +152,8 @@
 
 ![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
 * Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
@@ -146,6 +162,8 @@
 
 ![Dia 9 _ Animação de indicador Scroll Down](https://user-images.githubusercontent.com/39461509/89744681-bb885100-da85-11ea-942b-1c85ccba2cca.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 * Neste projeto pratiquei um pouco mais usando nth-child() e keyframes para criar animações
@@ -153,8 +171,9 @@
 
 ##  Desafio dia 10 - Animação indicando setas de anterior/proximo<a name="id10"></a>
 
-
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
+
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 * Neste projeto apliquei muito o uso da propriedade `transform` nas setas
@@ -164,6 +183,8 @@
 
 ![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
 * Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
@@ -172,6 +193,8 @@
 
 ![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
 * Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
@@ -179,6 +202,8 @@
 ##  Desafio dia 13 - Animação usando hover em botões de paginação <a name="id13"></a>
 
 ![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
+
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 
@@ -189,6 +214,7 @@
 
 ![Dia 14 _ Animação de card girando ao passar o mouse](https://user-images.githubusercontent.com/39461509/90274755-7d997d00-de37-11ea-95d0-800f0824162f.gif)
 
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 
@@ -200,6 +226,8 @@
 
 ![Dia 15 _ Animação em card de informações para contato](https://user-images.githubusercontent.com/39461509/90325011-7b751280-df4c-11ea-80e5-c3eb1b4379f3.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 *
@@ -210,6 +238,7 @@
 
 ![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
 
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 
@@ -221,6 +250,8 @@
 
 ![Dia 17 _ Efeito de botões brilhando](https://user-images.githubusercontent.com/39461509/90460611-9a091400-e0da-11ea-8e75-b7fa0e5acebf.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 *
@@ -231,6 +262,8 @@
 
 ![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
 
+* Confira no CodePen: 
+
 ##### O que estudar para criar este efeito:
 
 *
@@ -240,6 +273,8 @@
 ## Desafio 19 - Animação de uma barra de navegação <a name="id19"></a>
 
 ![Dia 19 _ Barra de navegação animada](https://user-images.githubusercontent.com/39461509/90713853-a7f69a80-e27c-11ea-9806-66961c23b4d2.gif)
+
+* Confira no CodePen: 
 
 ##### O que estudar para criar este efeito:
 
