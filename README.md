@@ -94,7 +94,7 @@
 
 ![Dia 03 _ Checkbox - Modo Noturno](https://user-images.githubusercontent.com/39461509/89191444-501c1c00-d579-11ea-8a7d-5886d57044b5.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 3: Checkbox de modo noturno](https://codepen.io/leandrorangel94/pen/ZEWJVMq)
 
 ##### O que estudar para criar este efeito:
 
