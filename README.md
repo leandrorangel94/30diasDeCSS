@@ -107,7 +107,7 @@
 
 ![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 4: Animação com efeito maquina de escrever]
 
 ##### O que estudar para criar este efeito:
 
@@ -119,7 +119,7 @@
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 5: Animação usando caixa de pesquisar]
 
 ##### O que estudar para criar este efeito:
 * Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
@@ -128,7 +128,7 @@
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 6: Ferramenta de avaliação de 5 estrelas]
 
 ##### O que estudar para criar este efeito:
 * Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
@@ -139,7 +139,7 @@
 
 ![Desafio dia 07 _ Barra de progresso circular](https://user-images.githubusercontent.com/39461509/89659113-cb493f00-d8a5-11ea-90c2-f9281b7713bf.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 7: Card de barra de progresso circular]
 
 ##### O que estudar para criar este efeito:
 * Criar um svg usando html e estiliza-lo.
@@ -150,7 +150,7 @@
 
 ![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 8: Animação utilizando texto]
 
 ##### O que estudar para criar este efeito:
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
@@ -160,7 +160,7 @@
 
 ![Dia 9 _ Animação de indicador Scroll Down](https://user-images.githubusercontent.com/39461509/89744681-bb885100-da85-11ea-942b-1c85ccba2cca.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 9: Animação de indicador scrolldown]
 
 ##### O que estudar para criar este efeito:
 
@@ -171,7 +171,7 @@
 
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 10: Setas indiando anterior/proximo]
 
 ##### O que estudar para criar este efeito:
 * Neste projeto apliquei muito o uso da propriedade `transform` nas setas
@@ -181,7 +181,7 @@
 
 ![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 11: animação de loading circular]
 
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
@@ -191,7 +191,7 @@
 
 ![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 12: Hamburguer menu]
 
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
@@ -201,7 +201,7 @@
 
 ![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 13: Botões de paginação]
 
 ##### O que estudar para criar este efeito:
 
@@ -212,7 +212,7 @@
 
 ![Dia 14 _ Animação de card girando ao passar o mouse](https://user-images.githubusercontent.com/39461509/90274755-7d997d00-de37-11ea-95d0-800f0824162f.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 14: Card girando]
 
 ##### O que estudar para criar este efeito:
 
@@ -224,7 +224,7 @@
 
 ![Dia 15 _ Animação em card de informações para contato](https://user-images.githubusercontent.com/39461509/90325011-7b751280-df4c-11ea-80e5-c3eb1b4379f3.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 15: Cards de informações para contato]
 
 ##### O que estudar para criar este efeito:
 
@@ -236,7 +236,7 @@
 
 ![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 16: Apresentação de imagens com botões de navegação]
 
 ##### O que estudar para criar este efeito:
 
@@ -248,7 +248,7 @@
 
 ![Dia 17 _ Efeito de botões brilhando](https://user-images.githubusercontent.com/39461509/90460611-9a091400-e0da-11ea-8e75-b7fa0e5acebf.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 17: Botões brilhando e alternando a cor]
 
 ##### O que estudar para criar este efeito:
 
@@ -260,7 +260,7 @@
 
 ![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 18: Barra de progresso animada]
 
 ##### O que estudar para criar este efeito:
 
@@ -272,7 +272,7 @@
 
 ![Dia 19 _ Barra de navegação animada](https://user-images.githubusercontent.com/39461509/90713853-a7f69a80-e27c-11ea-9806-66961c23b4d2.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 19: Animação em barra de navegação]
 
 ##### O que estudar para criar este efeito:
 
@@ -284,7 +284,7 @@
 
 ![Dia 20 _ Formulário de tela de login](https://user-images.githubusercontent.com/39461509/90770582-5ffd6500-e2c8-11ea-8fca-d5c63452218d.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 20: Form de tela de login]
 
 ##### O que estudar para criar este efeito:
 
@@ -296,7 +296,7 @@
 
 ![Dia 21 _ Animação usando card de produto](https://user-images.githubusercontent.com/39461509/90889644-e8463d80-e38e-11ea-9d0a-6a722705bd5a.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 21: Animação em card de produto]
 
 ##### O que estudar para criar este efeito:
 
@@ -309,7 +309,7 @@
 
 ![Dia 22 _ Animação usando sublinhado em links](https://user-images.githubusercontent.com/39461509/90957319-30369480-e463-11ea-85a3-af10f43a7d3e.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 22: Animação com sublinhado em links]
 
 ##### O que estudar para criar este efeito:
 
@@ -321,7 +321,7 @@
 
 ![Dia 23 _ Botão de voltar ao topo da página](https://user-images.githubusercontent.com/39461509/90986687-137d8800-e55b-11ea-911f-86338eb1bfd3.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 23: Botão de voltar ao topo e scrollbar customizada]
 
 ##### O que estudar para criar este efeito:
 
@@ -334,7 +334,7 @@
 
 ![Dia 24 _ Animação em campos de caixas de serviços](https://user-images.githubusercontent.com/39461509/91111120-0abdac80-e656-11ea-8ba9-cc4020105299.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 24: Efeito bolha em cards de planos]
 
 ##### O que estudar para criar este efeito:
 
@@ -347,7 +347,7 @@
 ![Dia 25 _ Mudança do ponteiro ao passar o mouse](https://user-images.githubusercontent.com/39461509/91247221-298c7380-e728-11ea-9857-7ae7d9a879fe.gif)
 
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 25: Mudando o cursor usando hover]
 
 ##### O que estudar para criar este efeito:
 
@@ -360,7 +360,7 @@
 
 ![Dia 26 _ Animação de loading liquido](https://user-images.githubusercontent.com/39461509/91369212-9a439680-e7e1-11ea-9077-f0066866ca23.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 26: Tela de carregamento com efeito liquido]
 
 ##### O que estudar para criar este efeito:
 
@@ -373,7 +373,7 @@
 
 ![Dia 27 _ Página de erro 404 customizada](https://user-images.githubusercontent.com/39461509/91516002-d4379a00-e8c0-11ea-9726-5f9bcd679715.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 27: Página 404 personalizada]
 
 ##### O que estudar para criar este efeito:
 
@@ -386,7 +386,7 @@
 
 ![Dia 28 _ Animação no background da página](https://user-images.githubusercontent.com/39461509/91625623-2b9c3f80-e97f-11ea-82e9-1f6b9e09bdb7.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 28: Animação no background da página]
 
 ##### O que estudar para criar este efeito:
 
@@ -399,7 +399,7 @@
 ![Dia 29 _ Checkbox brilhando quando selecionados](https://user-images.githubusercontent.com/39461509/91646410-3c9f8c00-ea25-11ea-980c-1918ed32c519.gif)
 
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 29: Checkbox brilhando e mudando de cor]
 
 ##### O que estudar para criar este efeito:
 
@@ -412,7 +412,7 @@
 
 ![desafio-30-1](https://user-images.githubusercontent.com/39461509/91668485-76cf6300-eae3-11ea-9f73-332c2a1a7c24.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 30: Isso é tudo, pessoal]
 
 ##### O que estudar para criar este efeito:
 
