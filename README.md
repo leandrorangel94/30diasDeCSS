@@ -82,7 +82,7 @@
 
 ![Desafio 02 _ Animação com tela de loading gradiente com brilho](https://user-images.githubusercontent.com/39461509/89125106-732fc880-d4b2-11ea-9a13-5c57cf389438.gif)
 
-* Confira no CodePen: 
+* Confira no CodePen: [Projeto 2: Tela de loading animada](https://codepen.io/leandrorangel94/pen/bGprOKr)
 
 ##### O que estudar para criar este efeito:
 
