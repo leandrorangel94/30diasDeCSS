@@ -107,7 +107,7 @@
 
 ![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
 
-* Confira no CodePen: [Projeto 4: Animação com efeito maquina de escrever]
+* Confira no CodePen: [Projeto 4: Animação com efeito maquina de escrever](https://codepen.io/leandrorangel94/pen/GRZMYmE)
 
 ##### O que estudar para criar este efeito:
 
@@ -119,7 +119,7 @@
 
 ![Desafio dia 05 _ Animação com caixa de pesquisa](https://user-images.githubusercontent.com/39461509/89467377-d425fd80-d74b-11ea-9ba8-ba585a99da29.gif)
 
-* Confira no CodePen: [Projeto 5: Animação usando caixa de pesquisar]
+* Confira no CodePen: [Projeto 5: Animação usando caixa de pesquisar](https://codepen.io/leandrorangel94/pen/xxVXyrb)
 
 ##### O que estudar para criar este efeito:
 * Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
@@ -128,7 +128,7 @@
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
 
-* Confira no CodePen: [Projeto 6: Ferramenta de avaliação de 5 estrelas]
+* Confira no CodePen: [Projeto 6: Ferramenta de avaliação de 5 estrelas](https://codepen.io/leandrorangel94/pen/wvGrYey)
 
 ##### O que estudar para criar este efeito:
 * Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
