@@ -412,7 +412,7 @@
 
 ![desafio-30-1](https://user-images.githubusercontent.com/39461509/91668485-76cf6300-eae3-11ea-9f73-332c2a1a7c24.gif)
 
-* Confira no CodePen: [Projeto 30: Isso é tudo, pessoal]
+* Confira no CodePen: [Projeto 30: Isso é tudo, pessoal](https://codepen.io/leandrorangel94/pen/XWdzRgQ)
 
 ##### O que estudar para criar este efeito:
 
