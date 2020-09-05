@@ -139,7 +139,7 @@
 
 ![Desafio dia 07 _ Barra de progresso circular](https://user-images.githubusercontent.com/39461509/89659113-cb493f00-d8a5-11ea-90c2-f9281b7713bf.gif)
 
-* Confira no CodePen: [Projeto 7: Card de barra de progresso circular]
+* Confira no CodePen: [Projeto 7: Card de barra de progresso circular](https://codepen.io/leandrorangel94/pen/jOqaRrq)
 
 ##### O que estudar para criar este efeito:
 * Criar um svg usando html e estiliza-lo.
@@ -150,7 +150,7 @@
 
 ![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
 
-* Confira no CodePen: [Projeto 8: Animação utilizando texto]
+* Confira no CodePen: [Projeto 8: Animação utilizando texto](https://codepen.io/leandrorangel94/pen/rNeYbLw)
 
 ##### O que estudar para criar este efeito:
 * Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
@@ -160,7 +160,7 @@
 
 ![Dia 9 _ Animação de indicador Scroll Down](https://user-images.githubusercontent.com/39461509/89744681-bb885100-da85-11ea-942b-1c85ccba2cca.gif)
 
-* Confira no CodePen: [Projeto 9: Animação de indicador scrolldown]
+* Confira no CodePen: [Projeto 9: Animação de indicador scrolldown](https://codepen.io/leandrorangel94/pen/dyMZLXq)
 
 ##### O que estudar para criar este efeito:
 
@@ -171,7 +171,7 @@
 
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
 
-* Confira no CodePen: [Projeto 10: Setas indiando anterior/proximo]
+* Confira no CodePen: [Projeto 10: Setas indiando anterior/proximo](https://codepen.io/leandrorangel94/pen/gOrXyMJ)
 
 ##### O que estudar para criar este efeito:
 * Neste projeto apliquei muito o uso da propriedade `transform` nas setas
