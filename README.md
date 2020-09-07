@@ -181,7 +181,7 @@
 
 ![Dia 11 _ Animação de loading circular](https://user-images.githubusercontent.com/39461509/89961941-ab08df80-dc19-11ea-9ed3-7ab2ce61a7ef.gif)
 
-* Confira no CodePen: [Projeto 11: animação de loading circular]
+* Confira no CodePen: [Projeto 11: animação de loading circular](https://codepen.io/leandrorangel94/pen/eYZVNOe)
 
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
@@ -191,7 +191,7 @@
 
 ![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
 
-* Confira no CodePen: [Projeto 12: Hamburguer menu]
+* Confira no CodePen: [Projeto 12: Hamburguer menu](https://codepen.io/leandrorangel94/pen/LYNQVPX)
 
 ##### O que estudar para criar este efeito:
 * Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
@@ -201,7 +201,7 @@
 
 ![Dia 13 _ Animação em botões de paginação](https://user-images.githubusercontent.com/39461509/90193008-753f3480-dd9a-11ea-8b2e-2facf85aeae9.gif)
 
-* Confira no CodePen: [Projeto 13: Botões de paginação]
+* Confira no CodePen: [Projeto 13: Botões de paginação](https://codepen.io/leandrorangel94/pen/gOrvpOO)
 
 ##### O que estudar para criar este efeito:
 
@@ -212,7 +212,7 @@
 
 ![Dia 14 _ Animação de card girando ao passar o mouse](https://user-images.githubusercontent.com/39461509/90274755-7d997d00-de37-11ea-95d0-800f0824162f.gif)
 
-* Confira no CodePen: [Projeto 14: Card girando]
+* Confira no CodePen: [Projeto 14: Card girando](https://codepen.io/leandrorangel94/pen/MWyQwWE)
 
 ##### O que estudar para criar este efeito:
 
@@ -224,7 +224,7 @@
 
 ![Dia 15 _ Animação em card de informações para contato](https://user-images.githubusercontent.com/39461509/90325011-7b751280-df4c-11ea-80e5-c3eb1b4379f3.gif)
 
-* Confira no CodePen: [Projeto 15: Cards de informações para contato]
+* Confira no CodePen: [Projeto 15: Cards de informações para contato](https://codepen.io/leandrorangel94/pen/vYGdOYq)
 
 ##### O que estudar para criar este efeito:
 
