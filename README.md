@@ -70,25 +70,11 @@
 
 * Confira no CodePen: [Projeto 1: Camadas 3D](https://codepen.io/leandrorangel94/pen/PoNbYPq)
 
-##### O que estudar para criar este efeito: 
-
-* Como criar camadas usando a tag `<span>`.
-* Flexbox com align-items e justify-content.
-* Utilizar a pseudo-classe nth-child.
-* Transições CSS.
-* Utilizar hover.
-
 ##  Desafio dia 02 - Tela de loading animado <a name="id02"></a>
 
 ![Desafio 02 _ Animação com tela de loading gradiente com brilho](https://user-images.githubusercontent.com/39461509/89125106-732fc880-d4b2-11ea-9a13-5c57cf389438.gif)
 
 * Confira no CodePen: [Projeto 2: Tela de loading animada](https://codepen.io/leandrorangel94/pen/bGprOKr)
-
-##### O que estudar para criar este efeito:
-
-* Mover elementos utilizando keyframes.
-* Utilizar a propriedade animation do CSS.
-* Utilizar propriedade transform para modificar os elementos do loading.
 
 ##  Desafio dia 03 - Checkbox de modo noturno <a name="id03"></a>
 
@@ -96,24 +82,11 @@
 
 * Confira no CodePen: [Projeto 3: Checkbox de modo noturno](https://codepen.io/leandrorangel94/pen/ZEWJVMq)
 
-##### O que estudar para criar este efeito:
-
-* Estilização de input com tipo checkbox.
-* Utilizar os pseudo-elementos :after e :before com transform para mudar a estilização da página.
-* Mover elementos com translateX() do transform.
-* Transição CSS com ease-in.
-
 ##  Desafio dia 04 - Animação com efeito typewriter (maquina de escrever) <a name="id04"></a>
 
 ![Dia 4 _ Animação com efeito Typewriter](https://user-images.githubusercontent.com/39461509/89307309-511b7f00-d647-11ea-9f61-f19d044c64f1.gif)
 
 * Confira no CodePen: [Projeto 4: Animação com efeito maquina de escrever](https://codepen.io/leandrorangel94/pen/GRZMYmE)
-
-##### O que estudar para criar este efeito:
-
-* Criar efeito de cursor de texto piscando com animation.
-* utilizar unidade de medida `em`.
-* melhorar minhas habilidades utilizando `@keyframes` criando animações usando `from{}` e `to{}`.
 
 ##  Desafio dia 05 - Animação usando caixa de pesquisar <a name="id05"></a>
 
@@ -121,19 +94,11 @@
 
 * Confira no CodePen: [Projeto 5: Animação usando caixa de pesquisar](https://codepen.io/leandrorangel94/pen/xxVXyrb)
 
-##### O que estudar para criar este efeito:
-* Neste projeto, apenas pratiquei a utilizar um pouco mais o `:hover` e `transform` para criar uma animação no botão de pesquisar.
-
 ##  Desafio dia 06 - Ferramenta de avaliação de 5 estrelas <a name="id06"></a>
 
 ![Desafio dia 06 _ Ferramenta de avaliação de 5 estrelas](https://user-images.githubusercontent.com/39461509/89540460-6fae8100-d7d3-11ea-810f-ee9dc419a38a.gif)
 
 * Confira no CodePen: [Projeto 6: Ferramenta de avaliação de 5 estrelas](https://codepen.io/leandrorangel94/pen/wvGrYey)
-
-##### O que estudar para criar este efeito:
-* Fixei o conhecimento aplicando `:hover`, `:after` e `:before`.
-* aprendi a utilizar o combinador irmão comum `~` (conhecido como til).
-* Para que as estrelas sejam marcadas da esquerda para direita, usei rotação no eixo y em 180 graus.
 
 ##  Desafio dia 07 - Card com barra de progresso circular <a name="id07"></a>
 
@@ -141,20 +106,11 @@
 
 * Confira no CodePen: [Projeto 7: Card de barra de progresso circular](https://codepen.io/leandrorangel94/pen/jOqaRrq)
 
-##### O que estudar para criar este efeito:
-* Criar um svg usando html e estiliza-lo.
-* Aprendi a fazer e estilizar também uma barra circular.
-* pratiquei um pouco mais usando `:hover` e `nth-child()`.
-
 ##  Desafio dia 08 - Animação utilizando texto <a name="id08"></a>
 
 ![Dia 8 _ Animação usando textos simples](https://user-images.githubusercontent.com/39461509/89712637-863a1100-d968-11ea-80ed-404b99d2a91f.gif)
 
 * Confira no CodePen: [Projeto 8: Animação utilizando texto](https://codepen.io/leandrorangel94/pen/rNeYbLw)
-
-##### O que estudar para criar este efeito:
-* Aplicar `letter-spacing` para criar uma animação com distancia entre as letras.
-* Pratiquei um pouco mais usando `keyframes` e `animation` para movimentar os elementos na tela.
 
 ##  Desafio dia 09 - Animação indicando rolagem para baixo <a name="id09"></a>
 
@@ -162,20 +118,11 @@
 
 * Confira no CodePen: [Projeto 9: Animação de indicador scrolldown](https://codepen.io/leandrorangel94/pen/dyMZLXq)
 
-##### O que estudar para criar este efeito:
-
-* Neste projeto pratiquei um pouco mais usando nth-child() e keyframes para criar animações
-* Aprendi a criar setas usando bordas de elementos e rotação.
-
 ##  Desafio dia 10 - Animação indicando setas de anterior/proximo<a name="id10"></a>
 
 ![Dia 10 _ Animação em setas indicando anterior_proxima](https://user-images.githubusercontent.com/39461509/89843692-d9ba8380-db4f-11ea-9908-cd771900dc43.gif)
 
 * Confira no CodePen: [Projeto 10: Setas indiando anterior/proximo](https://codepen.io/leandrorangel94/pen/gOrXyMJ)
-
-##### O que estudar para criar este efeito:
-* Neste projeto apliquei muito o uso da propriedade `transform` nas setas
-* Também pude praticar muito usando o `hover` para mudar o elemento ao passar o ponteiro por cima dele.
 
 ##  Desafio dia 11 - Animação de loading circular<a name="id11"></a>
 
@@ -183,19 +130,11 @@
 
 * Confira no CodePen: [Projeto 11: animação de loading circular](https://codepen.io/leandrorangel94/pen/eYZVNOe)
 
-##### O que estudar para criar este efeito:
-* Neste projeto pratiquei mais usando a tag `svg` e criando circulo usando `circle`.
-* Também pude reforçar meu conhecimento criando animações usando a propriedade `animation` do CSS e `keyframes`.
-
 ##  Desafio dia 12 - Hambúrguer Menu com sobreposição na tela <a name="id12"></a>
 
 ![Dia 12 _ Hamburguer Menu com sobreposição na tela](https://user-images.githubusercontent.com/39461509/90075818-aead6c80-dcd4-11ea-9567-f35f069b5178.gif)
 
 * Confira no CodePen: [Projeto 12: Hamburguer menu](https://codepen.io/leandrorangel94/pen/LYNQVPX)
-
-##### O que estudar para criar este efeito:
-* Neste projeto pratiquei muito utilizando `transform: rotate()` para criar a rotação no x.
-* Também pude praticar usando os pseudo-elementos `:after` e `:before` para criar a animação no botão ao clicar.
 
 ##  Desafio dia 13 - Animação usando hover em botões de paginação <a name="id13"></a>
 
@@ -203,22 +142,11 @@
 
 * Confira no CodePen: [Projeto 13: Botões de paginação](https://codepen.io/leandrorangel94/pen/gOrvpOO)
 
-##### O que estudar para criar este efeito:
-
-* Neste projeto pude praticar um pouco mais usando operador irmão comum `~` e `nth-child()`.
-* Aprendi a criar uma barra na parte inferior para usar em botões para destaca-los.
-
 ##  Desafio dia 14 - Animação de card girando <a name="id14"></a>
 
 ![Dia 14 _ Animação de card girando ao passar o mouse](https://user-images.githubusercontent.com/39461509/90274755-7d997d00-de37-11ea-95d0-800f0824162f.gif)
 
 * Confira no CodePen: [Projeto 14: Card girando](https://codepen.io/leandrorangel94/pen/MWyQwWE)
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ##  Desafio dia 15 - Animação em card de informações para contato <a name="id15"></a>
 
@@ -226,23 +154,11 @@
 
 * Confira no CodePen: [Projeto 15: Cards de informações para contato](https://codepen.io/leandrorangel94/pen/vYGdOYq)
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ##  Desafio dia 16 - Efeito de apresentação de imagens com botões de navegação <a name="id16"></a>
 
 ![Dia 16 _ Efeito de apresentação de slides com botões de navegação](https://user-images.githubusercontent.com/39461509/90345379-6eacf900-dff6-11ea-937c-c9bfc8c731d5.gif)
 
 * Confira no CodePen: [Projeto 16: Apresentação de imagens com botões de navegação]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 17 - Efeito de botões brilhando e alternando a cor <a name="id17"></a>
 
@@ -250,23 +166,11 @@
 
 * Confira no CodePen: [Projeto 17: Botões brilhando e alternando a cor]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 18 - Animação usando barra de progresso <a name="id18"></a>
 
 ![Dia 18 _ Barra de habilidades](https://user-images.githubusercontent.com/39461509/90516363-429a9080-e13a-11ea-9385-268b2257a3d6.gif)
 
 * Confira no CodePen: [Projeto 18: Barra de progresso animada]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 19 - Animação de uma barra de navegação <a name="id19"></a>
 
@@ -274,35 +178,17 @@
 
 * Confira no CodePen: [Projeto 19: Animação em barra de navegação]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 20 - Formulário de tela de login <a name="id20"></a>
 
 ![Dia 20 _ Formulário de tela de login](https://user-images.githubusercontent.com/39461509/90770582-5ffd6500-e2c8-11ea-8fca-d5c63452218d.gif)
 
 * Confira no CodePen: [Projeto 20: Form de tela de login]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 21 - Animação usando card de Produto <a name="id21"></a>
 
 ![Dia 21 _ Animação usando card de produto](https://user-images.githubusercontent.com/39461509/90889644-e8463d80-e38e-11ea-9d0a-6a722705bd5a.gif)
 
 * Confira no CodePen: [Projeto 21: Animação em card de produto]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 22 - Animação usando sublinhado em links <a name="id22"></a>
 
@@ -311,23 +197,11 @@
 
 * Confira no CodePen: [Projeto 22: Animação com sublinhado em links]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 23 - Botão de voltar ao topo e scrollbar customizada <a name="id23"></a>
 
 ![Dia 23 _ Botão de voltar ao topo da página](https://user-images.githubusercontent.com/39461509/90986687-137d8800-e55b-11ea-911f-86338eb1bfd3.gif)
 
 * Confira no CodePen: [Projeto 23: Botão de voltar ao topo e scrollbar customizada]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 24 - Animação em cards de planos/serviços <a name="id24"></a>
 
@@ -336,12 +210,6 @@
 
 * Confira no CodePen: [Projeto 24: Efeito bolha em cards de planos]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 25 - Mudando o cursor usando hover <a name="id25"></a>
 
 ![Dia 25 _ Mudança do ponteiro ao passar o mouse](https://user-images.githubusercontent.com/39461509/91247221-298c7380-e728-11ea-9857-7ae7d9a879fe.gif)
@@ -349,24 +217,11 @@
 
 * Confira no CodePen: [Projeto 25: Mudando o cursor usando hover]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 26 - Animação de tela de carregamento usando efeito líquido <a name="id26"></a>
-
 
 ![Dia 26 _ Animação de loading liquido](https://user-images.githubusercontent.com/39461509/91369212-9a439680-e7e1-11ea-9077-f0066866ca23.gif)
 
 * Confira no CodePen: [Projeto 26: Tela de carregamento com efeito liquido]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 27 - Página de erro personalizada <a name="id27"></a>
 
@@ -375,12 +230,6 @@
 
 * Confira no CodePen: [Projeto 27: Página 404 personalizada]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 28 - Animação na tela de fundo da página <a name="id28"></a>
 
 
@@ -388,24 +237,11 @@
 
 * Confira no CodePen: [Projeto 28: Animação no background da página]
 
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
 ## Desafio 29 - Checkbox brilhando e mudando a cor quando selecionados <a name="id29"></a>
 
 ![Dia 29 _ Checkbox brilhando quando selecionados](https://user-images.githubusercontent.com/39461509/91646410-3c9f8c00-ea25-11ea-980c-1918ed32c519.gif)
 
-
 * Confira no CodePen: [Projeto 29: Checkbox brilhando e mudando de cor]
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
 
 ## Desafio 30 - Animação "That's all Folks" usando camadas com divs e texto <a name="id30"></a>
 
@@ -413,15 +249,6 @@
 ![desafio-30-1](https://user-images.githubusercontent.com/39461509/91668485-76cf6300-eae3-11ea-9f73-332c2a1a7c24.gif)
 
 * Confira no CodePen: [Projeto 30: Isso é tudo, pessoal](https://codepen.io/leandrorangel94/pen/XWdzRgQ)
-
-##### O que estudar para criar este efeito:
-
-*
-*
-*
-
-
-
 
 ---
 
